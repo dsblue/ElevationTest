@@ -1,0 +1,16 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=C8:00:62:86:8C:6C:DE:4B:7F:E5:9B:21:91:5D:8E:A8:5A:84:78:ED%3Bcom.camgian.elevationtest.elevation
+
+    You can also add your credentials to an existing key, using this line:
+    C8:00:62:86:8C:6C:DE:4B:7F:E5:9B:21:91:5D:8E:A8:5A:84:78:ED;com.camgian.elevationtest.elevation
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">AIzaSyACA1W0U_MbOHuZy00oE8EEXp8NkX-PPF4</string>
+</resources>
